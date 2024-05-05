@@ -1,0 +1,47 @@
+Move Component(s) Origin to Grid
+Filename     : C:\Users\fgiro\OneDrive\Desktop\PCBFLEX\PCBFLEX\PCB.PcbDoc
+Date         : 5/5/2024
+Time         : 16:59:44
+Time Elapsed : 00:00:00
+
+
+    SIP Component P2-OUT (175.387mm,120.015mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component P1-IN (7.493mm,8.382mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SOIC Component IC16-MCP23017T-E_SO (22.098mm,12.573mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC15-VL53L1X (76.162mm,99.225mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC14-VL53L1X (89.916mm,99.314mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC13-VL53L1X (105.753mm,98.933mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC12-VL53L1X (119.469mm,98.971mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC11-VL53L1X (134.493mm,99.136mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC10-VL53L1X (149.225mm,99.314mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC9-VL53L1X (163.106mm,99.53mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC8-VL53L1X (163.068mm,115.062mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC7-VL53L1X (151.803mm,115.392mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC6-VL53L1X (138.049mm,115.697mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC5-VL53L1X (124.46mm,115.951mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC4-VL53L1X (109.563mm,116.154mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC3-VL53L1X (96.139mm,116.332mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC2-VL53L1X (84.112mm,116.205mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC1-VL53L1X (71.717mm,116.535mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component IC0-VL53L1X (60.414mm,116.408mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C19-100uF (2.667mm,12.446mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C18-100nF (171.45mm,115.127mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C17-100nF (32.258mm,119.445mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C16-100nF (54.864mm,116.394mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C15-100nF (82.804mm,98.871mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C14-100nF (97.409mm,98.679mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C13-100nF (112.141mm,98.868mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C12-100nF (126.746mm,99.06mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C11-100nF (141.859mm,99.06mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C10-100nF (156.464mm,99.441mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C9-100nF (170.307mm,99.695mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C8-100nF (167.64mm,115.062mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C7-100nF (156.972mm,114.746mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C6-100nF (144.653mm,115.254mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C5-100nF (131.318mm,115.951mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C4-100nF (116.84mm,116.713mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C3-100nF (102.235mm,116.586mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C2-100nF (90.043mm,116.016mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C1-100nF (77.343mm,116.078mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C0-100nF (65.532mm,115.635mm) on Top Layer - Component pads are OFF grid. No action taken.
+count : 39
